@@ -15,5 +15,5 @@ O projeto conta com consultas customizadas para diferentes níveis de acesso no 
 
 ## 🚀 Como Executar o Projeto
 1. Clone este repositório.
-2. Importe o arquivo `script_biblioteca.sql` no seu gerenciador MySQL (Workbench, DBeaver, etc.).
+2. Importe o arquivo `scriptBiblioteca.sql` no seu gerenciador MySQL (Workbench, DBeaver, etc.).
 3. Execute as consultas para testar o comportamento das Views.
