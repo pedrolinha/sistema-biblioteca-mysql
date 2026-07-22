@@ -1,3 +1,16 @@
+ /*
+ * PROJETO: Sistema de Controle de Empréstimos e Gerência de Biblioteca
+ * 
+ * AUTOR: Pedro Henrique Moravieski
+ * REPOSITÓRIO: https://github.com/pedromoravieski-codes/sistema-biblioteca-mysql
+ * DATA DE CRIAÇÃO: 20-07-2026
+ * VERSÃO: 0.0.1
+ * 
+ * LICENÇA: MIT License
+ * Copyright (c) 2026 Pedro Henrique Moravieski
+ * 
+ */
+
 -- Criação e uso do banco biblioteca
 CREATE DATABASE IF NOT EXISTS dbbiblioteca;
 USE dbbiblioteca;
